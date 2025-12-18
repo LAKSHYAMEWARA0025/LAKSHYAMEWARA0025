@@ -3,8 +3,8 @@
 
 🌱 I’m currently learning Data Structures and Algorithms on [Leetcode](https://leetcode.com/u/t4x81JW3pg/)  
 👨‍💻 All of my projects are available at [GitHub](https://github.com/LAKSHYAMEWARA0025?tab=repositories)  
-📝 I'm active on [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-📊 Know About Me [Resume](https://drive.google.com/file/d/1szBZeBTNLMKEs9mT_-OmHt4yKLS31rbP/view?usp=sharing)
+📝 I'm active on [LinkedIn](https://www.linkedin.com/in/lakshyamewara0025/)  
+📊 Know About Me [Resume](https://drive.google.com/file/d/1szBZeBTNLMKEs9mT_-OmHt4yKLS31rbP/view?usp=sharing)  
 📫 Let's connect: lakshyamewara0025@gmail.com  
 
 ---
