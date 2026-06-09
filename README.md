@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lakshya Mewara</h1>
 <h2 align="center">A passionate Full-Stack Developer!</h2>
 
-🌱 I’m currently learning Data Structures and Algorithms on [Leetcode](https://leetcode.com/u/t4x81JW3pg/)  
+🌱 I’m currently learning Data Structures and Algorithms on [Leetcode](https://leetcode.com/u/lakshyamewara0025/)  
 👨‍💻 All of my projects are available at [GitHub](https://github.com/LAKSHYAMEWARA0025?tab=repositories)  
 📝 I'm active on [LinkedIn](https://www.linkedin.com/in/lakshyamewara0025/)  
-📊 Know About Me [Resume](https://drive.google.com/file/d/12iOby-thY18XLY_nzdBvSpS1lZ0TDqxi/view?usp=sharing)  
+📊 Know About Me [Resume](https://drive.google.com/file/d/1vCBT6_FS0ju931TkvN3XPeAg-IQpooDT/view?usp=sharing)  
 📫 Let's connect: lakshyamewara0025@gmail.com  
 
 ---
